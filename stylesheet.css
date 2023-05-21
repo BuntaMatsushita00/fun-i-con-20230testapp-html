@@ -1,0 +1,46 @@
+main {
+    margin: 5% 25%;
+    overflow: hidden;
+}
+
+.title {
+    margin-top: 10%;
+}
+
+.title h1 {
+    font-size: 4vmin;
+    text-align: center;
+}
+
+.start {
+    text-align: center;
+    margin-top: 30%;
+}
+
+.start button {
+    font-size: 8vmin;
+    background-color: #ffffff;
+
+}
+
+.question {
+    text-align: center;
+    margin-top: 12%;
+}
+
+.question button {
+    font-size: 7vmin;
+    background-color: #ffffff;
+    margin-top: 15%;
+    width: 60%;
+}
+
+.result {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.result img {
+    height: auto;
+    width: 60%;
+}
